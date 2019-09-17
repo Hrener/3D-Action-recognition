@@ -11,8 +11,8 @@ Please, install the following packages
 - hdf5
 
 ## Dataset download  
-[Official website application download](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)  
-[Baidu network disk](https://pan.baidu.com/s/1IFh7si4f4FKElK4xr3xZkA)  code：slya 
+1.[Official website application download](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)  
+2.[Baidu network disk](https://pan.baidu.com/s/1IFh7si4f4FKElK4xr3xZkA)
 
 ## Tips
 If you have any questions about my work, please do not hesitate to contact me by emails. hren0412@gmail.com
