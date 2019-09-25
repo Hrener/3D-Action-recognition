@@ -1,5 +1,5 @@
 # PyTorch implementation of 3D-Action-recognition
-PyTorch implementation of [SKELETON-BASED ACTION RECOGNITION WITH CONVOLUTIONAL NEURAL](https://arxiv.org/abs/1704.07595v1), IEEE 2017. 
+PyTorch implementation of [Skeleton-based Action Recognition With Convolutional Neural](https://arxiv.org/abs/1704.07595v1), IEEE 2017. 
 
 #### Accuracy(Cross-View): 87.1%（The baseline is 89.3%）
 
