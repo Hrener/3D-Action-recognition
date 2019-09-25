@@ -12,7 +12,7 @@ Please, install the following packages
 
 ## Dataset download  
 - [Official website application download](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)  
-
-
+- [BaiduNetdisk](https://pan.baidu.com/s/1BVDNSlQVzoDde3UaMFq6qg) Code：dgoi 
+- [BaiduNetdisk](https://pan.baidu.com/s/1sA3il5-_9haqB9iY43YU9g) Code：7vlp 
 ## Tips
 If you have any questions about my work, please do not hesitate to contact me by emails. hren0412@gmail.com
