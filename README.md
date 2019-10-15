@@ -4,7 +4,7 @@ PyTorch implementation of [Skeleton-based Action Recognition With Convolutional 
 #### Accuracy(Cross-View): 87.1%（The baseline is 89.3%）
 
 ## Requirements
-Please, install the following packages
+You need to install the following packages.
 - numpy
 - torch-1.0.1
 - torchvision-0.3.0
