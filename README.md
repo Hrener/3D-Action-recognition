@@ -3,7 +3,7 @@ PyTorch implementation of [Skeleton-based Action Recognition With Convolutional 
 ##### Accuracy(Cross-View): 87.1%（The baseline is 89.3%）
 
 ## Network framework
-![](https://github.com/Hrener/3D-Action-recognition/raw/master/network/network.png)
+![](https://github.com/Hrener/3D-Action-recognition/raw/master/Networks/network.png)
 
 ## Requirements
 You need to install the following packages.
