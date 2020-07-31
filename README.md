@@ -16,5 +16,7 @@ You need to install the following packages.
 - [Official website application download](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)  
 - [BaiduNetdisk](https://pan.baidu.com/s/1BVDNSlQVzoDde3UaMFq6qg) Code：dgoi 
 - [BaiduNetdisk](https://pan.baidu.com/s/1sA3il5-_9haqB9iY43YU9g) Code：7vlp 
+### hdf5 data(only cross-view)
+- [BaiduNetdisk](https://pan.baidu.com/s/1zRyXb2_n_a3885zRNnFEeg) Code：t2au  
 ## Tips
 If you have any questions about my work, please do not hesitate to contact me by emails. hren0412@gmail.com
